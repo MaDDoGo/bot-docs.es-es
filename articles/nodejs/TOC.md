@@ -7,7 +7,7 @@
 ## [Administración de flujo de conversación](bot-builder-nodejs-dialog-manage-conversation-flow.md)
 ## [Sustitución de diálogos](bot-builder-nodejs-dialog-replace.md)
 ## [Control de acciones del usuario](bot-builder-nodejs-dialog-actions.md)
-# error de Hadoop
+# Mensajes
 ## [Creación de mensajes](bot-builder-nodejs-message-create.md) 
 ## [Envío y recepción de archivos adjuntos](bot-builder-nodejs-send-receive-attachments.md) 
 ## [Envío de mensajes proactivos](bot-builder-nodejs-proactive-messages.md)
